@@ -1,4 +1,4 @@
-# 欢迎来到Heycの小窝，hyc1230.github.io
+# 欢迎来到Heycの小窝 - Powered By GitHub Pages
 
 这里似乎还没有东西，过段时间再来看看叭~
 
