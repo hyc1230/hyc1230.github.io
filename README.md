@@ -1,6 +1,8 @@
 # Heycの小窝 - Powered By GitHub Pages
 
-这里似乎还没有东西，过段时间再来看看叭~
+刚刚开站，正在发展中，欢迎提建议~
+
+[GitHub 项目地址](https://github.com/hyc1230/hyc1230.github.io)
 
 ---
 ### 站外的我
@@ -19,4 +21,11 @@
 ---
 ### 友情链接
 
-还没有……
+添加友链请发送申请邮件给：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+
+目前还没有友链……
+
+---
+### 提交建议
+
+请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
