@@ -1,6 +1,6 @@
 # Heycの小窝 - Powered By GitHub Pages
 
-刚刚开站，正在发展中，欢迎提建议~
+刚刚开站，正在发展中，欢迎[提建议](https://hyc1230.github.io/#提交建议)~
 
 [GitHub 项目地址](https://github.com/hyc1230/hyc1230.github.io)
 
@@ -29,3 +29,7 @@
 ### 提交建议
 
 请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+
+---
+
+$\LaTeX$看看LATEX能不能用
