@@ -31,5 +31,8 @@
 请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
 
 ---
+### 闲聊
 
-$\LaTeX$看看LATEX能不能用
+微软出电脑管家了你知道吗？
+<img width="960" alt="bing-mspcmgr" src="https://user-images.githubusercontent.com/107044023/173166490-6c834072-05b0-484c-beb7-822bf3ca1d20.png">
+
