@@ -1,6 +1,6 @@
 # Heycの小窝 - Powered By GitHub Pages
 
-刚刚开站，正在发展中，欢迎[提建议](https://hyc1230.github.io/#提交建议)~
+
 
 [GitHub 项目地址](https://github.com/hyc1230/hyc1230.github.io)
 
@@ -40,3 +40,8 @@
 还没看够？[查看历史闲聊](https://hyc1230.github.io/chat-history)！
 
 投稿闲聊请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+
+---
+╔═══╗
+║[回顶部](https://hyc1230.github.io/#Heycの小窝 - Powered By GitHub Pages)║
+╚═══╝
