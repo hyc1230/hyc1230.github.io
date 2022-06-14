@@ -1,6 +1,4 @@
-# Heycの小窝 - Powered By GitHub Pages
-
-
+# Heycの小窝
 
 [GitHub 项目地址](https://github.com/hyc1230/hyc1230.github.io)
 
@@ -42,8 +40,11 @@
 投稿闲聊请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
 
 ---
-╔══════╗
+### 博客
 
-║[回顶部](https://hyc1230.github.io/#Heycの小窝%20-%20Powered By GitHub Pages)║
+自己的博客还在搭建中，也请大家耐心等待哦~
 
-╚══════╝
+[洛谷博客传送门](https://www.luogu.com.cn/blog/hyc-cpp/)
+
+---
+最近更新：2022/06/14 17:27
