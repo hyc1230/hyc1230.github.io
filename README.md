@@ -1,6 +1,6 @@
 # Heycの小窝
 
-[GitHub 项目地址](https://github.com/hyc1230/hyc1230.github.io)
+[GitHub 项目地址，给个star吧](https://github.com/hyc1230/hyc1230.github.io)
 
 ---
 ### 站外的我
@@ -42,9 +42,7 @@
 ---
 ### 博客
 
-自己的博客还在搭建中，也请大家耐心等待哦~
-
 [洛谷博客传送门](https://www.luogu.com.cn/blog/hyc-cpp/)
 
 ---
-最近更新：2022/06/14 17:27
+最近更新：2022/06/30 08:03
