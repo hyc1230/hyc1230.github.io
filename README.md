@@ -16,6 +16,8 @@
 
 [KMS 激活工具](https://hyc1230.github.io/KMS-Activator)
 
+如果你有灵感，可以来联系我哦，邮箱：<heyangchengnb@qq.com>
+
 ---
 ### 寺庙
 
@@ -30,7 +32,7 @@
 
 还没看够？[查看历史闲聊](https://hyc1230.github.io/chat-history)！
 
-投稿闲聊请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+投稿闲聊请发送邮件：<heyangchengnb@qq.com>
 
 ---
 ### 博客
@@ -40,14 +42,14 @@
 ---
 ### 友情链接
 
-添加友链请发送申请邮件给：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+添加友链请发送申请邮件给：<heyangchengnb@qq.com>
 
 目前还没有友链……
 
 ---
 ### 提交建议
 
-请发送邮件：[heyangchengnb@qq.com](mailto:heyangchengnb@qq.com)
+请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/06/30 08:03
+最近更新：2022/07/01 11:39
