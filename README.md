@@ -1,6 +1,6 @@
 # Heycの小窝
 
-我已经被来这里的大佬们吊打了[![Page Views Count](https://badges.toozhao.com/badges/01G6WD3SSKEEV4H1S6CZDRH2MH/blue.svg)](https://badges.toozhao.com/stats/01G6WD3SSKEEV4H1S6CZDRH2MH "Get your own page views count badge on badges.toozhao.com")此！QwQ
+我已经被来这里的大佬们吊打了[![Page Views Count](https://badges.toozhao.com/badges/01G6WD3SSKEEV4H1S6CZDRH2MH/blue.svg)](https://badges.toozhao.com/stats/01G6WD3SSKEEV4H1S6CZDRH2MH "Get your own page views count badge on badges.toozhao.com")次！QwQ
 
 [GitHub 项目地址，喜欢就给个star吧](https://github.com/hyc1230/hyc1230.github.io)
 
