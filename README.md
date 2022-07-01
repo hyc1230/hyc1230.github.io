@@ -1,5 +1,7 @@
 # Heycの小窝
 
+我已经被来这里的大佬们吊打了[![Page Views Count](https://badges.toozhao.com/badges/01G6WD3SSKEEV4H1S6CZDRH2MH/blue.svg)](https://badges.toozhao.com/stats/01G6WD3SSKEEV4H1S6CZDRH2MH "Get your own page views count badge on badges.toozhao.com")此！QwQ
+
 [GitHub 项目地址，喜欢就给个star吧](https://github.com/hyc1230/hyc1230.github.io)
 
 ---
@@ -17,11 +19,6 @@
 [KMS 激活工具](https://hyc1230.github.io/KMS-Activator)
 
 如果你有灵感，可以来联系我哦，邮箱：<heyangchengnb@qq.com>
-
----
-### 寺庙
-
-2022/06/07 开站祭
 
 ---
 ### 闲聊
@@ -52,4 +49,4 @@
 请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/07/01 11:39
+最近更新：2022/07/01 16:16
