@@ -2,6 +2,8 @@
 
 我已经被来这里的大佬们吊打了[![Page Views Count](https://badges.toozhao.com/badges/01G6WD3SSKEEV4H1S6CZDRH2MH/blue.svg)](https://badges.toozhao.com/stats/01G6WD3SSKEEV4H1S6CZDRH2MH "Get your own page views count badge on badges.toozhao.com")次！QwQ
 
+[小窝FAQ](https://www.luogu.com.cn/blog/hyc-cpp/heyc-site-faq)（为了防止无法进入网站，也就是看不了FAQ，我把FAQ放在了洛谷博客）
+
 [GitHub 项目地址，喜欢就给个star吧](https://github.com/hyc1230/hyc1230.github.io)
 
 ---
@@ -34,6 +36,8 @@
 ---
 ### 博客
 
+[Heyc GitHub 博客，yee~](https://heyangcheng.github.io)
+
 [洛谷博客传送门](https://www.luogu.com.cn/blog/hyc-cpp/)
 
 ---
@@ -49,4 +53,4 @@
 请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/07/01 16:16
+最近更新：2022/07/02 08:51
