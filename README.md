@@ -7,6 +7,11 @@
 [GitHub 项目地址，喜欢就给个star吧](https://github.com/hyc1230/hyc1230.github.io)
 
 ---
+### 公告栏
+
+有新信息或网站更新，会在这里告知各位哦~
+
+---
 ### 站外链接
 
 [GitHub](https://github.com/hyc1230)
@@ -36,7 +41,7 @@
 ---
 ### 博客
 
-[Heyc GitHub 博客，yee~](https://heyangcheng.github.io)
+[Heyc GitHub 博客](https://hyc1230.github.io/blog/)
 
 [洛谷博客传送门](https://www.luogu.com.cn/blog/hyc-cpp/)
 
@@ -53,4 +58,4 @@
 请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/07/02 08:51
+最近更新：2022/07/05 22:37
