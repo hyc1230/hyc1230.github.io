@@ -9,6 +9,8 @@
 ---
 ### 公告栏
 
+**开源项目刷屏器来啦！**
+
 有新信息或网站更新，会在这里告知各位哦~
 
 ---
@@ -23,7 +25,9 @@
 ---
 ### 开源项目
 
-[KMS 激活工具](https://hyc1230.github.io/KMS-Activator)
+[KMS 激活工具](https://hyc1230.github.io/KMS-Activator/)
+
+[刷屏器](https://hyc1230.github.io/screen-flooder/)
 
 如果你有灵感，可以来联系我哦，邮箱：<heyangchengnb@qq.com>
 
@@ -58,4 +62,4 @@
 请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/07/05 22:37
+最近更新：2022/07/05 23:17
