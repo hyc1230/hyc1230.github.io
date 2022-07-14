@@ -11,6 +11,8 @@
 
 > [《Heycの小窝 内容发布协议》](https://hyc1230.github.io/publish-EULA)新鲜出炉！投稿闲聊前请务必先**阅读并接受**本协议！
 
+> Heycの小窝聊天室上线！利用hack.chat，欢迎加入！
+
 有新信息或网站更新，会在这里告知各位哦~
 
 ---
@@ -33,6 +35,8 @@
 
 ---
 ### 闲聊
+
+如果您想投稿的闲聊与信息技术无关，请优先考虑进入[Heycの小窝 聊天室](https://hyc1230.github.io/chat-room)
 
 #### 2022/06：微软出电脑管家了你知道吗？
 <img width="960" alt="bing-mspcmgr" src="https://user-images.githubusercontent.com/107044023/173166490-6c834072-05b0-484c-beb7-822bf3ca1d20.png">
@@ -62,4 +66,4 @@
 请发送邮件：<heyangchengnb@qq.com>
 
 ---
-最近更新：2022/07/12 08:13
+最近更新：2022/07/14 20:51
