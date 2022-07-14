@@ -11,7 +11,7 @@
 
 > [《Heycの小窝 内容发布协议》](https://hyc1230.github.io/publish-EULA)新鲜出炉！投稿闲聊前请务必先**阅读并接受**本协议！
 
-> Heycの小窝聊天室上线！利用hack.chat，欢迎加入！
+> [Heycの小窝 聊天室](https://hyc1230.github.io/chat-room/)上线！利用hack.chat网站构建，欢迎加入！（须使用较新浏览器）
 
 有新信息或网站更新，会在这里告知各位哦~
 
