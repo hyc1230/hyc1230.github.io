@@ -51,7 +51,9 @@
 
 [Heyc GitHub 博客](https://hyc1230.github.io/blog/)
 
-[洛谷博客传送门](https://www.luogu.com.cn/blog/hyc-cpp/)
+[洛谷博客](https://www.luogu.com.cn/blog/hyc-cpp/)
+
+[OIer Space 博客](https://heyc.oier.space)
 
 ---
 ### 友情链接
