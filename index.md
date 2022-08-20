@@ -11,7 +11,7 @@
 
 > [《Heycの小窝 内容发布协议》](/publish-EULA)新鲜出炉！投稿闲聊前请务必先**阅读并接受**本协议！
 
-> [Heycの小窝 聊天室](/chat-room)上线！利用hack.chat网站构建，欢迎加入！（须使用较新浏览器）
+> [修复 GitHub 访问](/github-hosts-adder)项目上线！无法访问 GitHub（并且通过其他方式得知本工具）的可以使用！
 
 有新信息或网站更新，会在这里告知各位哦~
 
@@ -30,6 +30,8 @@
 [KMS 激活工具](/KMS-Activator)
 
 [刷屏器](/screen-flooder)
+
+[修复 GitHub 访问](/github-hosts-adder)
 
 如果你有灵感，可以来联系我哦，邮箱：<heyc-offical@outlook.com>
 
@@ -68,4 +70,4 @@
 请发送邮件：<heyc-offical@outlook.com>
 
 ---
-最近更新：2022/07/14 20:51
+最近更新：2022/08/20 14:03
