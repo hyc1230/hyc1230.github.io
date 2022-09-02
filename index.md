@@ -53,7 +53,7 @@
 
 [Heyc GitHub 博客](/blog)
 
-[洛谷博客](https://www.luogu.com.cn/blog/hyc-cpp)
+[洛谷博客](https://www.luogu.com.cn/blog/hyc-cpp/)
 
 [OIer Space 博客](https://heyc.oier.space)
 
@@ -70,4 +70,4 @@
 请发送邮件：<heyc-offical@outlook.com>
 
 ---
-最近更新：2022/08/20 14:03
+最近更新：2022/09/02 21:03
